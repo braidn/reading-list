@@ -1,0 +1,24 @@
+# Backlog
+
+- Creative Priority
+- Leaders eat first
+- Willpower: Why Self-Control is the secret of success
+- Whatever You Think, Think the Opposite
+- Missing Out: In Praise of the Unlived Life
+- Zero to One
+- Subtle Art Of Giving No Fucks
+- How We Got To Now
+- Zen Programmer
+- A Surgeon's Note on Performance
+- Elements of Programming Interviews
+- Programming Interviews Exposed
+- Leading Snoflakes
+- Algorithm Design Manual
+- Introduction To Algorithms
+- Concrete Mathematics for CS
+- Coders at Work
+- FoxTales: Behind the Scenes at Fox Software
+- On writing well
+- Shop Class as Soulcraft
+- Imposter's Handbook
+- Effective Engineer
