@@ -5,11 +5,11 @@ Next:
   - Barbarian Days @context(life)
  
 Now:
-  - Antifragile @context(business)
   - Foucault's Pendulum @context(fiction)
   - The Ruby Way 3rd Edition @context(programming)
 
 Done:
+  - Antifragile @context(business) @done(2017-11-10)
   - Innovator's Dilemma @context(business) @done(2017-09-03)
   - Radical Candor @context(buisness) @done(2017-08-27)
   - Grit @context(life) @done(2017-08-06)
@@ -18,4 +18,3 @@ Done:
   - Hatching Twitter @context(startup) @done(2017-09-03)
   - Let My People Go Surfing @context(business) @done(2017-03-18)
   - NG-Book2 @context(programming) @done(2017-03-18)
-  - Hatching Twitter @context(startup) @done(2017-05-08)
